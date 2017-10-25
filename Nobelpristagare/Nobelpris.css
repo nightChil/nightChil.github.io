@@ -1,0 +1,88 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	margin:0;
+	background-image:url(96363c9337b2d1aad24323b1d9efda72--texture-metal-gold-texture.jpg);
+}
+
+#ram{
+	width:80%;
+	height:100%;
+	position:absolute;
+	margin-left:10%;
+}
+
+header{
+	width:100%;
+	height:10%;
+	text-align:center;
+	color:#000;
+}
+
+
+h1{
+	font-size:80px;
+	font-family:"Arial Black", Gadget, sans-serif;
+	line-height:20%;
+	text-align:center;
+	color:#000;
+}
+
+h2{
+	font-size:50px;
+}
+
+nav{
+	background-image:url(free-strass-vector-gold-glitter-texture-on-black-background--7.jpeg);
+	height:10%;
+	width:100%;
+}
+
+ul{
+	text-align:center;
+	width:100%;
+	height:20%;
+	list-style:none;
+}
+
+li{
+	font-size:40px;
+	float:left;
+	height:50%;
+	width:30%;
+	line-height:80px;
+
+}
+
+article {
+	height:70%;
+	width:100%;
+}
+
+p{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:30px;
+}
+
+a{
+	color:#F00;
+	text-decoration:none;
+	font-family:"Arial Black", Gadget, sans-serif;
+	
+}
+
+figcaption{
+	font-size:20px;
+	text-align:center;
+}
+
+img{
+	margin-right:auto;
+	margin-left:auto;
+	display:block;
+}
+
+
+
+	
